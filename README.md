@@ -1,7 +1,8 @@
 # Bits and Pieces of Python 
 
 Daily Dose of Python
-1. Find the Missing Number
+
+    1. Find the Missing Number
 
     Challenge:
     An integer array of size N will be populated with values of 0-N randomly.
